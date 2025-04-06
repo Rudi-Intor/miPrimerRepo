@@ -11,3 +11,5 @@ un commit mas de de git hot
 Una actualizacion mass
 
 Cambios dede mi rama local llamada developer01
+
+cambios desde dev editor
